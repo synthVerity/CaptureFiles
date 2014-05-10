@@ -1,0 +1,76 @@
+  0.000000 9c:04:eb:c3:dd:7e -> Broadcast    ARP 56 Who has 172.21.128.1?  Tell 172.21.205.217
+  0.006515 174.35.10.198 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  0.014222 174.35.10.198 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  0.020984 173.194.43.4 -> 172.21.138.167 TCP 74 https > 50107 [SYN, ACK] Seq=0 Ack=0 Win=42540 Len=0 MSS=1430 SACK_PERM=1 TSval=2730564011 TSecr=97475717 WS=64
+  0.058908 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+  0.059810 23.209.43.163 -> 172.21.204.4 TCP 74 https > 50524 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=1894847932 TSecr=580873924 WS=2
+  0.102437 9c:04:eb:c3:dd:7e -> Broadcast    ARP 56 Who has 172.21.128.1?  Tell 172.21.205.217
+  0.108620 72.21.81.131 -> 172.21.141.11 HTTP 1514 Continuation or non-HTTP traffic
+  0.118887 68.142.81.158 -> 172.21.141.16 SSL 1514 Continuation Data
+  0.120362 68.142.81.158 -> 172.21.141.16 SSL 1514 Continuation Data
+  0.125798 68.142.81.158 -> 172.21.141.16 SSL 1514 Continuation Data
+  0.132420 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+  0.143728 68.142.81.158 -> 172.21.141.16 SSL 1514 Continuation Data
+  0.159337 17.171.71.105 -> 172.21.206.93 TLSv1.2 97 Change Cipher Spec, Encrypted Handshake Message
+  0.162617   4.31.38.12 -> 172.21.141.20 HTTP 1514 Continuation or non-HTTP traffic
+  0.173180 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+  0.176756 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+  0.182791 174.35.10.198 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  0.191456 174.35.10.198 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  0.192511 174.35.10.198 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  0.193243 217.212.243.27 -> 172.21.206.15 TCP 74 http > 50659 [SYN, ACK] Seq=0 Ack=0 Win=4380 Len=0 MSS=1460 TSval=3896288729 TSecr=827420963 SACK_PERM=1
+  0.194234 173.194.43.4 -> 172.21.138.167 TCP 74 https > 50107 [SYN, ACK] Seq=0 Ack=0 Win=42540 Len=0 MSS=1430 SACK_PERM=1 TSval=2730564011 TSecr=97475717 WS=64
+  0.195275 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+  0.196120 23.209.43.163 -> 172.21.204.4 TCP 74 https > 50524 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=1894847932 TSecr=580873924 WS=2
+  0.196781 23.209.43.163 -> 172.21.204.4 TCP 74 https > 50524 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=1894848444 TSecr=580873924 WS=2
+  0.200934 9c:04:eb:c3:dd:7e -> Broadcast    ARP 56 Who has 172.21.128.1?  Tell 172.21.205.217
+  0.202676 72.21.81.131 -> 172.21.141.11 HTTP 1514 [TCP Retransmission] Continuation or non-HTTP traffic
+  0.305850 74.125.226.78 -> 172.21.206.67 SSL 1484 [TCP Previous segment not captured] Continuation Data
+  0.307612 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+  0.308753 174.35.10.198 -> 172.21.206.15 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+  0.309869 174.35.10.198 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  0.312542 174.35.10.198 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  0.405034   4.31.38.12 -> 172.21.141.20 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+  0.529806   4.31.38.12 -> 172.21.141.20 HTTP 1514 Continuation or non-HTTP traffic
+  0.532317 74.125.226.78 -> 172.21.206.67 SSL 1484 [TCP Previous segment not captured] Continuation Data
+  0.534468 74.125.226.78 -> 172.21.206.67 SSL 1484 [TCP Previous segment not captured] Continuation Data
+  0.554337 174.35.10.198 -> 172.21.206.15 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+  0.558842 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+  0.560903 72.21.81.131 -> 172.21.141.11 HTTP 1514 [TCP Retransmission] Continuation or non-HTTP traffic
+  1.018448 54.213.178.225 -> 172.21.206.49 TCP 66 http-alt > 34372 [ACK] Seq=1 Ack=1 Win=260 Len=0 TSval=642957063 TSecr=21221100
+  1.431096 68.142.81.158 -> 172.21.141.16 SSL 1514 [TCP Previous segment not captured] Continuation Data
+  2.145486 74.125.226.78 -> 172.21.206.67 SSL 1484 [TCP Previous segment not captured] Continuation Data
+  2.561960 68.142.81.158 -> 172.21.141.16 SSL 1514 Continuation Data
+  2.862257 174.35.10.198 -> 172.21.206.15 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+  2.965891 74.125.22.84 -> 172.21.141.20 TLSv1 1484 Application Data
+  5.320501   4.31.38.12 -> 172.21.141.20 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+  5.833931   4.31.38.12 -> 172.21.141.20 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+  5.937931 74.125.226.78 -> 172.21.206.67 SSL 1484 [TCP Previous segment not captured] Continuation Data
+  7.677043 174.35.10.134 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+  8.599315 174.35.10.134 -> 172.21.206.15 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+  8.703841 54.230.54.205 -> 172.21.140.234 TCP 74 http > 49883 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=2688176332 TSecr=56181354 WS=128
+  9.312583  54.230.54.7 -> 172.21.140.234 TCP 74 http > 49880 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=2695973095 TSecr=56181148 WS=128
+  9.619501 31.13.69.128 -> 172.21.205.139 TCP 78 https > 59917 [ACK] Seq=1 Ack=1 Win=102 Len=0 TSval=2593592005 TSecr=7660 SLE=16142 SRE=17590
+ 10.143421   4.31.38.12 -> 172.21.141.20 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+ 11.669355 174.35.10.197 -> 172.21.206.15 HTTP 1514 Continuation or non-HTTP traffic
+ 11.771945 173.194.43.14 -> 172.21.141.20 TCP 66 http > 41008 [ACK] Seq=1 Ack=1 Win=670 Len=0 TSval=2730575212 TSecr=222228
+ 11.975558 23.209.43.163 -> 172.21.204.4 SSL 1514 [TCP Previous segment not captured] Continuation Data
+ 13.613378 50.19.218.13 -> 172.21.141.11 TCP 74 https > 50548 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=692397698 TSecr=1047546341 WS=128
+ 13.819325   4.31.38.12 -> 172.21.141.20 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+ 13.822536 74.125.226.78 -> 172.21.206.67 SSL 1484 [TCP Previous segment not captured] Continuation Data
+ 13.823945   4.31.38.12 -> 172.21.141.20 HTTP 1514 Continuation or non-HTTP traffic
+ 14.847396 31.13.69.128 -> 172.21.205.139 TCP 66 https > 59917 [ACK] Seq=1 Ack=19038 Win=233 Len=0 TSval=2593597356 TSecr=9282
+ 14.847499  54.230.54.7 -> 172.21.140.234 TCP 74 http > 49878 [SYN, ACK] Seq=0 Ack=0 Win=5792 Len=0 MSS=1460 SACK_PERM=1 TSval=2762704750 TSecr=56181146 WS=128
+ 14.850391 72.21.81.131 -> 172.21.141.11 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+ 15.252396 17.173.255.108 -> 172.21.205.4 TCP 66 https > 53201 [SYN, ACK] Seq=0 Ack=0 Win=8190 Len=0 MSS=1460 WS=16 SACK_PERM=1
+ 16.174205 74.125.226.78 -> 172.21.206.67 SSL 1484 [TCP Previous segment not captured] Continuation Data
+ 16.177393 74.125.226.78 -> 172.21.206.67 SSL 1484 Continuation Data
+ 17.813919 173.194.43.8 -> 172.21.141.20 HTTP 1484 Continuation or non-HTTP traffic
+ 17.924407 54.225.248.234 -> 172.21.206.49 TCP 74 4244 > 36338 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=1656701515 TSecr=21223058 WS=128
+ 17.924671 54.213.178.225 -> 172.21.206.49 TCP 66 http-alt > 34372 [FIN, ACK] Seq=1 Ack=1 Win=260 Len=0 TSval=642958730 TSecr=21221100
+ 17.925674 216.157.12.254 -> 172.21.141.16 HTTP 1074 Continuation or non-HTTP traffic
+ 18.326510 68.142.81.158 -> 172.21.141.16 SSL 1514 [TCP Previous segment not captured] Continuation Data
+ 18.942449 208.185.55.57 -> 172.21.140.234 TCP 74 http > 49875 [SYN, ACK] Seq=0 Ack=0 Win=14480 Len=0 MSS=1460 SACK_PERM=1 TSval=2657400118 TSecr=56181029 WS=2
+ 18.943524 173.194.43.8 -> 172.21.141.20 HTTP 1484 [TCP Previous segment not captured] Continuation or non-HTTP traffic
+ 18.944713 173.194.43.8 -> 172.21.141.20 HTTP 1484 Continuation or non-HTTP traffic
+ 20.988687   4.31.38.12 -> 172.21.141.20 HTTP 1514 [TCP Previous segment not captured] Continuation or non-HTTP traffic
